@@ -1,0 +1,10 @@
+name: mafia
+description: $description
+version: '${version}'
+
+main: me.speedy.mafia.Mafia
+api-version: '26.2'
+load: STARTUP
+
+authors: [ Speedy ]
+website: https://github.com/SpeedyTerror1909
